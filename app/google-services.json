@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "958913506099",
+    "project_id": "qrcode-prodia-apps",
+    "storage_bucket": "qrcode-prodia-apps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958913506099:android:0fdd09e63a2577e0c46c46",
+        "android_client_info": {
+          "package_name": "com.example.prodia.qrcodeapps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "958913506099-bilurpg82p7c9b7srjooddum372j30cb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ4-N_mq5Edpfe3fyBVZmEIBeQkpHNU7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "958913506099-bilurpg82p7c9b7srjooddum372j30cb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

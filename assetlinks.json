@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.example.prodia.qrcodeapps",
+    "sha256_cert_fingerprints":
+    ["59:76:79:2E:7E:3C:68:7D:B3:EE:63:44:EB:4B:9B:4D:69:BB:B9:E5:C6:35:1C:2E:C6:96:C1:08:7B:64:1F:DC"]
+  }
+}]
